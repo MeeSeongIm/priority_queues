@@ -1,7 +1,7 @@
 // Modeling N particles in a system: collision simulation. 
 // from Princeton's applications of priority queues. 
 // to be modified and debugged later to model a certain system.
-// this code doesn't consider 3 or more particle collisions. 
+// although this code simulates N particles, it doesn't model 3 or more particle collisions. 
 // N = particles.length 
 
 
